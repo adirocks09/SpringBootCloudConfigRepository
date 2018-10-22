@@ -1,0 +1,2 @@
+# SpringBootCloudConfigRepository
+Contains Cloud Configuration properties
